@@ -1,0 +1,13 @@
+[project]
+name = "bookreferee-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.23.1",
+    "modelcontextprotocol>=1.0.1",
+]
+[project.scripts]
+mood-reads-mcp = "mood_reads_server:main"
