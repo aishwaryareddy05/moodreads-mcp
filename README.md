@@ -246,7 +246,7 @@ In Cursor MCP settings:
   }
 }
 ```
-💡 Example Prompts
+## 💡 Example Prompts
 ```
 "I feel drained and need something gentle, soft, and warm with found family."
 
@@ -255,7 +255,7 @@ In Cursor MCP settings:
 "Tell me more about the first book you recommended; fetch detailed info."
 ```
 
-🗺 Roadmap
+## 🗺 Roadmap
 ```
 User preference learning (remember what you liked)
 
@@ -266,14 +266,15 @@ Web UI or Streamlit app
 Integration with other book APIs (Goodreads/StoryGraph style)
 ```
 
-📝 License
+## 📝 License
 ```
 MIT — free to use, modify, and extend.
 ```
 
-❤️ Credits
+## ❤️ Credits
 ```
 Open Library for book metadata.
 
 MCP ecosystem for tool-based AI patterns.
 ```
+
